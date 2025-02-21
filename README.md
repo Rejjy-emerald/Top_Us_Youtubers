@@ -24,5 +24,6 @@ The goal of this project is to **analyze trends in YouTube channel growth, predi
 
 ## ⚡ How to Use    
    ```bash
-   git clone https://github.com/Rejjy_emerald/Top_US_Youtubers.git
+   git clone
+https://github.com/Rejjy_emerald/Top_US_Youtubers.git
    cd Top_US_Youtubers
