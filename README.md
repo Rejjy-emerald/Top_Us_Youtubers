@@ -29,7 +29,7 @@ The goal of this project is to **analyze trends in YouTube channel growth, predi
    cd Top_US_Youtubers
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 ## 🔮 Future Enhancements
 - Automate Data Updates using YouTube API.
