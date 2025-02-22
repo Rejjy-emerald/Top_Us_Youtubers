@@ -23,7 +23,22 @@ The goal of this project is to **analyze trends in YouTube channel growth, predi
 - **Power BI** (Dashboard & insights visualization)
 
 ## ⚡ How to Use    
+1. Clone the repository:  
    ```bash
-   git clone
-https://github.com/Rejjy_emerald/Top_US_Youtubers.git
+   git clone https://github.com/Rejjy_emerald/Top_US_Youtubers.git
    cd Top_US_Youtubers
+
+## 📈 Sample Visualization
+![Power BI Dashboard](images/dashboard_screenshot.png)
+
+## 🔮 Future Enhancements
+- Automate Data Updates using YouTube API.
+- Sentiment Analysis on YouTube comments to understand audience reactions.
+- Predictive Analytics to forecast follower growth using machine learning.
+
+## 🤝 Contributing
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
+
+## 📜 License
+This project is open-source under the MIT License.
+
