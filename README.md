@@ -28,8 +28,8 @@ The goal of this project is to **analyze trends in YouTube channel growth, predi
    git clone https://github.com/Rejjy_emerald/Top_US_Youtubers.git
    cd Top_US_Youtubers
 
-## 📈 Sample Visualization
-![Power BI Dashboard](images/dashboard_screenshot.png)
+## 📈 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
 
 ## 🔮 Future Enhancements
 - Automate Data Updates using YouTube API.
